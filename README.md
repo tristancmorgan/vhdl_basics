@@ -14,7 +14,9 @@ This repo is intended to be run on some flavour of Linux. I do most of my dev wo
 
 ### Install a simulator
 
-* Install GHDL (an open source VHDL simulator): `sudo apt-get install ghdl`
+* Install GHDL (an open source VHDL simulator) through your package manager:
+    * On ubuntu and debian systems this would be `sudo apt-get install ghdl`
+    * On archlinux-based distros there is a package in the aur
 
 ## Step 2: Run a test
 
